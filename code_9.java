@@ -1,5 +1,6 @@
 package clong.jgsu;
 
+//这个代码的功能没有完成
 public class code_9 {
 	public static void main(String[] args) {
 		/**
